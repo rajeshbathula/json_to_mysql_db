@@ -1,0 +1,7 @@
+pandas>=0.25
+sqlalchemy
+tabulate
+pytest
+xlrd>=1.0.0
+pymysql
+cryptography
